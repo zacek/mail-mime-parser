@@ -13,6 +13,10 @@
             "homepage": "https://github.com/zbateson/mail-mime-parser/graphs/contributors"
         }
     ],
+    "repositories" : [{
+        "type" : "vcs",
+        "url" : "https://github.com/zacek/mail-mime-parser"
+    }],
     "support": {
         "issues": "https://github.com/zbateson/mail-mime-parser/issues",
         "source": "https://github.com/zbateson/mail-mime-parser",
